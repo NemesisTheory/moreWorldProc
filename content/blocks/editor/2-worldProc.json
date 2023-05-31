@@ -1,0 +1,16 @@
+{
+  "type": "LogicBlock",
+  "name": "2-worldproc",
+  "localizedName": "World Medium Processor",
+  "health": 160,
+  "category": "logic",
+  "buildVisibility": "editorOnly",
+  "canOverdrive": false,
+  "targetable": false,
+  "instructionsPerTick": 32,
+  "forceDark": true,
+  "privileged": true,
+  "size": 2,
+  "maxInstructionsPerTick": 2000,
+  "range": 2147483647
+}
