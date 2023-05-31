@@ -1,0 +1,9 @@
+{
+  "name": "moreWorldProcessors",
+  "displayName": "moreWorldProc",
+  "author": "NemesisTheory",
+  "description": "2x2 and 3x3 world processors.",
+  "version": "1.0",
+  "minGameVersion": "140",
+  "hidden": "true"
+}
