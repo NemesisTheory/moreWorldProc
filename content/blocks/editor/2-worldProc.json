@@ -1,7 +1,7 @@
 {
   "type": "LogicBlock",
   "name": "2-worldproc",
-  "localizedName": "World Medium Processor",
+  "localizedName": "Medium World Processor",
   "health": 160,
   "category": "logic",
   "buildVisibility": "editorOnly",
