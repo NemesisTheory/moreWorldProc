@@ -1,0 +1,16 @@
+{
+  "type": "LogicBlock",
+  "name": "3-worldproc",
+  "localizedName": "Large World Processor",
+  "health": 360,
+  "category": "logic",
+  "buildVisibility": "editorOnly",
+  "canOverdrive": false,
+  "targetable": false,
+  "instructionsPerTick": 100,
+  "forceDark": true,
+  "privileged": true,
+  "size": 3,
+  "maxInstructionsPerTick": 6200,
+  "range": 2147483647
+}
