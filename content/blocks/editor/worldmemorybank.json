@@ -1,0 +1,15 @@
+{
+  "type": "MemoryBlock",
+  "name": "worldBank",
+  "localizedName": "World Memory Bank",
+  "health": 160,
+  "category": "logic",
+  "buildVisibility": "editorOnly",
+  "canOverdrive": false,
+  "targetable": false,
+  "memoryCapacity": 1024,
+  "forceDark": true,
+  "privileged": true,
+  "size": 2,
+  "range": 2147483647
+}
