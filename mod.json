@@ -3,7 +3,7 @@
   "displayName": "moreWorldProc",
   "author": "NemesisTheory",
   "description": "2x2 and 3x3 world processors alongside a world memory bank.",
-  "version": "1.0",
+  "version": "1.1",
   "minGameVersion": "140",
   "hidden": "true"
 }
