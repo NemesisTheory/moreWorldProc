@@ -1,6 +1,6 @@
 {
   "type": "MemoryBlock",
-  "name": "worldbank",
+  "name": "worldmemorybank",
   "localizedName": "World Memory Bank",
   "health": 160,
   "category": "logic",
